@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-three-card-component-using-tailwind-css-nE0dcOCO7m)
+- Live Site URL: [Add live site URL here](https://acekant.github.io/fm-three-column-component/)
 
 ## My process
 
